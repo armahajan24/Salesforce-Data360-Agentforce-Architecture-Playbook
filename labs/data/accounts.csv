@@ -1,0 +1,4 @@
+source_system,account_id,account_name,status,source_updated_at
+snowflake,A-1001,Orchard Books,ACTIVE,2026-01-15T10:30:00Z
+snowflake,A-2002,Lakeview Crafts,ACTIVE,2026-01-15T11:30:00Z
+snowflake,A-3003,Cedar Lab,SUSPENDED,2026-01-15T11:45:00Z

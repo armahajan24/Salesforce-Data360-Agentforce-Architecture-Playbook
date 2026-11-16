@@ -1,0 +1,7 @@
+[
+  {"document_id":"POL-RETURNS","version":3,"effective_from":"2026-01-01","audience":"CUSTOMER","passage_id":"P01","title":"Returns policy","text":"Standard items are eligible for a return request within 30 days, subject to proof of purchase and exclusions."},
+  {"document_id":"POL-RETURNS","version":3,"effective_from":"2026-01-01","audience":"CUSTOMER","passage_id":"P02","title":"Damaged items","text":"Damaged items should be reported within 7 days; customer service reviews exceptions."},
+  {"document_id":"POL-SERVICE","version":2,"effective_from":"2026-01-01","audience":"CUSTOMER","passage_id":"P03","title":"Service availability","text":"The support team is available Monday through Friday, excluding company holidays."},
+  {"document_id":"POL-RETURNS","version":2,"effective_from":"2025-01-01","audience":"CUSTOMER","passage_id":"P04","title":"Superseded returns policy","text":"An older policy version; do not use for a current customer answer."},
+  {"document_id":"POL-ESCALATE","version":1,"effective_from":"2026-01-01","audience":"STAFF","passage_id":"P05","title":"Internal escalation","text":"Staff-only escalation steps; never retrieve for customers."}
+]

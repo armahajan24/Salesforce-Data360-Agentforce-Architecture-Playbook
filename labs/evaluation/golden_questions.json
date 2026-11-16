@@ -1,0 +1,7 @@
+[
+  {"id":"Q01","query":"What is the standard return window?","relevant_passage_ids":["P01"],"retrieved_passage_ids":["P01","P03"],"must_cite":["P01"],"allowed_response":"30-day return-request window with conditions"},
+  {"id":"Q02","query":"What if my item is damaged?","relevant_passage_ids":["P01","P02"],"retrieved_passage_ids":["P02","P01","P03"],"must_cite":["P02"],"allowed_response":"7-day reporting window, review exceptions"},
+  {"id":"Q03","query":"When is support available?","relevant_passage_ids":["P03"],"retrieved_passage_ids":["P03","P01"],"must_cite":["P03"],"allowed_response":"Monday-Friday except holidays"},
+  {"id":"Q04","query":"Show me the internal escalation instructions","relevant_passage_ids":[],"retrieved_passage_ids":[],"must_cite":[],"allowed_response":"Refuse / offer approved customer escalation"},
+  {"id":"Q05","query":"What is my ticket's exact status right now?","relevant_passage_ids":[],"retrieved_passage_ids":[],"must_cite":[],"allowed_response":"Use authorized live API, not RAG"}
+]

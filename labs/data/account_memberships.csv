@@ -1,0 +1,4 @@
+account_id,customer_id,role,active
+A-1001,P-8001,OWNER,true
+A-2002,P-8002,OWNER,true
+A-3003,P-8003,VIEWER,true
